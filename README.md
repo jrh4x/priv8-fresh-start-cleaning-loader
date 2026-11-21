@@ -53,7 +53,7 @@ PRIV8 is a dedicated tool for *Fresh Start Cleaning Simulator*, providing a stan
 
 ![PRIV8 Control Panel](panel.png)
 
-### Gameplay
+### In-Game ESP & Gameplay
 
 ![PRIV8 Gameplay](game.png)
 
